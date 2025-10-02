@@ -2,7 +2,9 @@
 
 ## 👨‍💻 About Me
 🎓 B.Tech in Computer Science (2021–2025) at Neelam College of Engineering
+
 💡 Passionate about Data Science, Python Development, and Statistics
+
 📍 Based in Agra, India
 
 ## 📈 GitHub Stats
