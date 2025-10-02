@@ -2,9 +2,8 @@
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech student in Computer Science
-- 🔭 Currently working on a **College Management System**
-- 🌱 Learning Python, Django, and SQL
-- 💬 Ask me about web development, Git, and open-source
+- 🌱 Learning Python, Numpy, Pandas, Matplotlib, Seaborn, Scipy, and SQL
+- 💬 Ask me about Data Science, Git, and open-source
 
 ## 📈 GitHub Stats
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajpathak&show_icons=true&theme=radical)
