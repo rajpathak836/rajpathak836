@@ -16,23 +16,8 @@
 
 ---
 
-## 📂 Projects  
 
-### 📘 Student Library Management System  
-- Developed in Python using **OOP concepts**  
-- Implemented book borrowing & user authentication  
-- Used **file handling** for storing/retrieving data  
 
-### 🎮 Number Guessing Game  
-- Python-based interactive game  
-- Used **loops & conditionals** to track attempts and performance  
-
-### 🐍 Gun, Snake, and Water Game  
-- Inspired by a childhood classic  
-- Built with Python’s **Random module**  
-- Modular design with functions  
-
----
 
 ## 📜 Certifications  
 - Python Fundamentals (Great Learning)  
@@ -55,5 +40,5 @@
 
 ## 📫 Connect with Me  
 📧 Email: **rajpathak836@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/raj-pathak9b2732274)  
+🔗 [LinkedIn](https://www.linkedin.com/in/raj-pathak-9b2732274/)  
 🌐 GitHub: **github.com/raj-pathak** 
